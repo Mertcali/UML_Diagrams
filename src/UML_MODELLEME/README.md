@@ -14,4 +14,4 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 YANIT OLARAK PNG YÜKLENDİ
 
-![alt text](https://github.com/Mertcali/OOP_Patika/blob/main/Uni_Yonetim_Sistemi.JPG)
+![alt text](https://github.com/Mertcali/OOP_Patika/blob/main/src/UML_MODELLEME/Uni_Yonetim_Sistemi.JPG)
