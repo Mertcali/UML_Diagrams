@@ -13,3 +13,5 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 YANIT OLARAK PNG YÜKLENDİ
+
+![alt text] (https://github.com/Mertcali/OOP_Patika/blob/main/Uni_Yonetim_Sistemi.JPG)
