@@ -12,4 +12,4 @@ Eğer film mevcut değil ise talep edilebilir.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-![alt text](https://github.com/Mertcali/OOP_Patika/blob/main/src/Polymorphism/hayvanat_bahce.drawio.png)
+![alt text](https://github.com/Mertcali/OOP_Patika/blob/main/src/Online_Film/online-film.png)
